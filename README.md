@@ -4,19 +4,19 @@
 
 * python
     
-    1. install python3.7
+    install python3.7
 
         `brew install python3`
 
-    2. install pipenv
+    install pipenv
 
         `python3.7 -m pip install pipenv`
 
-    3. install dependencies
+    install dependencies
 
         `pipenv install`
 
-    4. run python server
+    run python server
 
          `cd src`
         
@@ -25,10 +25,10 @@
 
 * node
 
-    1. install dependencies
+    install dependencies
 
         `npm install`
 
-    2. run dev
+    run dev
 
         `npm run dev`   
