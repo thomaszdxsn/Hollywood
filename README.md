@@ -1,25 +1,34 @@
 # Hollywood
 
-1. 下载python3.7
+## Usage
 
-`brew install python3.7`
+* python
+    
+    1. install python3.7
 
-2. 下载pipenv
+        `brew install python3`
 
-`python3.7 -m pip install pipenv`
+    2. install pipenv
 
-3. 下载依赖
+        `python3.7 -m pip install pipenv`
 
-`pipenv install`
+    3. install dependencies
 
-4. 启动
+        `pipenv install`
 
-开启两个terminal：
+    4. run python server
 
-`cd src`
+         `cd src`
+        
 
-`npm run dev`
+        `pipenv run python manage.py runserver`
 
-`cd src`
+* node
 
-`pipenv run python manage.py runserver`
+    1. install dependencies
+
+        `npm install`
+
+    2. run dev
+
+        `npm run dev`   
