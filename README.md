@@ -14,6 +14,10 @@
 
 4. 启动
 
+开启两个terminal：
+
+`cd src`
+
 `npm run dev`
 
 `cd src`
